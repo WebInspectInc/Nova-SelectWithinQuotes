@@ -1,5 +1,5 @@
 {
-    "identifier": "org.SelectWithinQuotes",
+    "identifier": "WebInspectInc.SelectWithinQuotes",
     "name": "Select Within Quotes",
     "organization": "WebInspectInc",
     "description": "This extension adds the ability to select text within quotation marks.",
