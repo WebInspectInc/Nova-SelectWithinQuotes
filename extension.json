@@ -1,8 +1,8 @@
 {
-    "identifier": "org.MoreSelections",
-    "name": "More Selections",
-    "organization": "MyOrganization",
-    "description": "Lorem ipsum, dolor sit amet.",
+    "identifier": "org.SelectWithinQuotes",
+    "name": "Select Within Quotes",
+    "organization": "WebInspectInc",
+    "description": "This extension adds the ability to select text within quotation marks.",
     "version": "1.0",
     "categories": ["commands"],
     
