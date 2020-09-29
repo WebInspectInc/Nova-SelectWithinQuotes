@@ -22,10 +22,7 @@
                 "title": "Select Within Quotes",
                 "command": "selectWithinQuotes",
                 "shortcut": "cmd-shift-,",
-                "when": "editorHasFocus",
-                "filters": {
-                    "syntaxes": ["html", "javascript", "css"]
-                }
+                "when": "editorHasFocus"
             }
         ]
     }
