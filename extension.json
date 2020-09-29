@@ -1,0 +1,32 @@
+{
+    "identifier": "org.MoreSelections",
+    "name": "More Selections",
+    "organization": "MyOrganization",
+    "description": "Lorem ipsum, dolor sit amet.",
+    "version": "1.0",
+    "categories": ["commands"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onLanguage:javascript"
+    ],
+    
+    "entitlements": {
+        
+    },
+    
+    "commands": {
+        "editor": [
+            {
+                "title": "Select Within Quotes",
+                "command": "selectWithinQuotes",
+                "shortcut": "cmd-shift-,",
+                "when": "editorHasFocus",
+                "filters": {
+                    "syntaxes": ["html", "javascript", "css"]
+                }
+            }
+        ]
+    }
+}
