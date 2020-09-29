@@ -5,6 +5,8 @@
     "description": "This extension adds the ability to select text within quotation marks.",
     "version": "1.0",
     "categories": ["commands"],
+    "bugs": "https://github.com/WebInspectInc/Nova-SelectWithinQuotes/issues",
+    "homepage": "https://github.com/WebInspectInc/Nova-SelectWithinQuotes",
     
     "main": "main.js",
     
